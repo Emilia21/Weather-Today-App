@@ -8,3 +8,11 @@ React project made to show today's weather. It has two modes:
 # Application design
 
 ![Screenshot](Capture.JPG)
+
+# Used Technologies
+  - React
+  - axios
+  - react-geocode
+  
+# Used API: 
+https://openweathermap.org/api
