@@ -16,3 +16,7 @@ React project made to show today's weather. It has two modes:
   
 # Used API: 
 https://openweathermap.org/api
+
+***
+
+Coded by Emilia Petkova
