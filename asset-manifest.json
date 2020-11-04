@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weather-Today-App/static/css/main.a02e23d4.chunk.css",
+    "main.js": "/Weather-Today-App/static/js/main.8b92275b.chunk.js",
+    "main.js.map": "/Weather-Today-App/static/js/main.8b92275b.chunk.js.map",
+    "runtime-main.js": "/Weather-Today-App/static/js/runtime-main.86cc9e50.js",
+    "runtime-main.js.map": "/Weather-Today-App/static/js/runtime-main.86cc9e50.js.map",
+    "static/js/2.27fd452e.chunk.js": "/Weather-Today-App/static/js/2.27fd452e.chunk.js",
+    "static/js/2.27fd452e.chunk.js.map": "/Weather-Today-App/static/js/2.27fd452e.chunk.js.map",
+    "index.html": "/Weather-Today-App/index.html",
+    "static/css/main.a02e23d4.chunk.css.map": "/Weather-Today-App/static/css/main.a02e23d4.chunk.css.map",
+    "static/js/2.27fd452e.chunk.js.LICENSE.txt": "/Weather-Today-App/static/js/2.27fd452e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Weather-Today-App/static/media/img.79a46cae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cc9e50.js",
+    "static/js/2.27fd452e.chunk.js",
+    "static/css/main.a02e23d4.chunk.css",
+    "static/js/main.8b92275b.chunk.js"
+  ]
+}
