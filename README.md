@@ -7,3 +7,4 @@ React project made to show today's weather. It has two modes:
   
 # Application design
 
+![Screenshot](/capture.jpg)
