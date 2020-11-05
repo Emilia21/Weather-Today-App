@@ -11,6 +11,10 @@ The app shows the minimal and the maximal temperature for the day, weather summa
 
 ![Screenshot](Capture.JPG)
 
+# Adobe Xd example Design
+
+https://xd.adobe.com/view/52ae413e-7c3b-4906-b3f0-9eba6314e565-07fd/
+
 # Used Technologies
   - React
   - axios
