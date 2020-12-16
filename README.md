@@ -7,6 +7,8 @@ React project made to show today's weather. It has two modes:
   
 The app shows the minimal and the maximal temperature for the day, weather summary and a short description. 
 
+## The app is responsive
+
 # Application design
 
 ![Screenshot](Capture.JPG)
